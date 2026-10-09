@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maintenance_guide.md",
-                "mode": "source",
+                "file": "system_architecture_guide.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "maintenance_guide"
+              "title": "system_architecture_guide"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -189,12 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43f9c425a754c284",
+  "active": "7934350340e0a3b6",
   "lastOpenFiles": [
     "raw_reviews_filtration.md",
     "plans.md",
-    "system_architecture_guide.md",
     "maintenance_guide.md",
+    "Текстовый документ.txt",
+    "system_architecture_guide.md",
     "Добро пожаловать.md",
     "offline_review_analysis_architecture.md"
   ]
