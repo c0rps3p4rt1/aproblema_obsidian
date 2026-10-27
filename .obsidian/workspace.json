@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:C:/Users/crpsprt1/Downloads/mercedes_benz_reliability_report.md",
+                "file": "raw_reviews_filtration.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mercedes_benz_reliability_report"
+              "title": "raw_reviews_filtration"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "43f9c425a754c284",
   "lastOpenFiles": [
+    "file:C:/Users/crpsprt1/Downloads/mercedes_benz_reliability_report.md",
     "raw_reviews_filtration.md",
     "plans.md",
     "maintenance_guide.md",
